@@ -1,3 +1,7 @@
-# MuadhAmzil_Challenge
+# RandomName
 
-I was suspended from AWS so I wasn't able to run an EC2 instance but I have the code finish for it. I have EC2 instances and other DevOps projects on my github that may suffice as proof of my capabilities.
+## Execution
+
+- **Must** replace this section with the execution instructions.
+- **Must** not include any content from the **original** document.
+- Provide any additional information that may be helpful to the reviewer.
